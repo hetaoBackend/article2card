@@ -1,7 +1,8 @@
 # article2card
 一个把长文转款成摘要卡片/图片的前端应用，使用 Kimi 对文章进行结构化总结。
-感谢@comeonzhj。 源自：https://github.com/comeonzhj/article2card
 
+## 更新
+@[kedyyan](https://github.com/kedyyan) 增加了一些模板和批量下载功能
 
 ## 如何使用
 - 下载代码，运行`index.html`在浏览器打开
